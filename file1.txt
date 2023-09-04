@@ -4,3 +4,4 @@ third
 third - my branch
 third - re my branch
 third - my branch re re
+fourth - my branch
