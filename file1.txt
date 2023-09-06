@@ -5,8 +5,5 @@ third - my branch
 third - re my branch
 third - my branch re re
 fourth - my branch
-<<<<<<< HEAD
 some hot fix
-=======
 기능 1 추가
->>>>>>> 91679af (새로운 기능 1 추가)
